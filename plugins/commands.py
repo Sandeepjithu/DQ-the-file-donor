@@ -160,7 +160,7 @@ async def start(client, message):
                           InlineKeyboardButton('Movie Group', url=GRP_LNK),
                           InlineKeyboardButton('Movie Updates', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/mntgxo")
+                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/stroker_kidd")
                          ]
                         ]
                     )
@@ -179,7 +179,7 @@ async def start(client, message):
                           InlineKeyboardButton('Movie Group', url=GRP_LNK),
                           InlineKeyboardButton('Movie Updates', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/mntgxo")
+                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/stroker_kidd")
                          ]
                         ]
                     )
@@ -298,7 +298,7 @@ async def start(client, message):
                       InlineKeyboardButton('Movie Group', url=GRP_LNK),
                       InlineKeyboardButton('Movie Updates', url=CHNL_LNK)
                    ],[
-                      InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/mntgxo")
+                      InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/stroker_kidd")
                      ]
                     ]
                 )
@@ -352,7 +352,7 @@ async def start(client, message):
                       InlineKeyboardButton('Movie Group', url=GRP_LNK),
                       InlineKeyboardButton('Movie Updates', url=CHNL_LNK)
                    ],[
-                      InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/mntgxo")
+                      InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/stroker_kidd")
                      ]
                     ]
         )
