@@ -6,7 +6,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/mntgxo'>Mᴜsᴀᴍᴍɪʟ Nᴇʟʟᴇɴɢᴀʀᴀ</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/stroker_kidd'>𝗠𝗮𝗱𝗱𝗼𝘅</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
@@ -35,7 +35,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonurl:https://t.me/mnbots)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonalert:Cʀᴇᴀᴛᴇᴅ ʙʏ 𝕸𝕹 𝕿𝕲 )</code>"""
+<code>[Button Text](buttonalert: Sugalle Mwone )</code>"""
 
     AUTOFILTER_TXT = """ʜᴇʟᴘ: <b>ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ</b>
 <b>ɴᴏᴛᴇ: Fɪʟᴇ Iɴᴅᴇx</b>
@@ -149,7 +149,7 @@ Nᴀᴍᴇ - {}"""
 ᴇxᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Lucifer S03E24
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./) 
-Cʀᴇᴀᴛᴇᴅ ʙʏ 𝕸𝕹 𝕿𝕲 </b>"""
+Cʀᴇᴀᴛᴇᴅ ʙʏ 𝗠𝗮𝗱𝗱𝗼𝘅 </b>"""
 
     I_CUD_NT = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
 ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ..."""
@@ -163,9 +163,9 @@ Cʀᴇᴀᴛᴇᴅ ʙʏ 𝕸𝕹 𝕿𝕲 </b>"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : Mᴜsᴀᴍᴍɪʟ Nᴇʟʟᴇɴɢᴀʀᴀ
-• ᴜꜱᴇʀɴᴀᴍᴇ : @mntgxo
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/mntgxo'>𝕸𝕹 𝕿𝕲</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : 𝗠𝗮𝗱𝗱𝗼𝘅
+• ᴜꜱᴇʀɴᴀᴍᴇ : @stroker_kidd
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/stroker_kidd'>𝗠𝗮𝗱𝗱𝗼𝘅</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -216,17 +216,9 @@ Hi Gentleman 😍 You're File Is Ready,(^_^)
   </pre>
 <blockquote>
 ╔═  ᴊᴏɪɴ ᴡɪᴛʜ ᴜs   ═╗
-Jᴏɪɴ :- [MAIN CHANNEL](https://t.me/New_indian_cinemas)
-Jᴏɪɴ :- [MOVIE UPDATES](https://t.me/new_ott_movies3)
-Jᴏɪɴ :- [Movie Group 1](https://t.me/MOVIES_GROUP_MN)
-Jᴏɪɴ :- [Movie Group 2](https://t.me/all_movies_group2)
-Jᴏɪɴ :- [Movie Group 3](https://t.me/mallu_movies4)
-Jᴏɪɴ :- [Movie Group 4](https://t.me/Netflix_Group3)
-Jᴏɪɴ :- [Movie Group 5](https://t.me/Malayalam_Movie_Request_group)
-Jᴏɪɴ :- [Movie Group 6](https://t.me/English_Movie_search)
-Jᴏɪɴ :- [Movie Group 7](https://t.me/New_Release_Group)
-Jᴏɪɴ :- [Movie Group 8](https://t.me/+_c0Cj--mClszZDY1)
-╚═  ᴊᴏɪɴ ᴡɪᴛʜ ᴜs    ═╝ """
+Jᴏɪɴ:- [MAIN CHANNEL](https://t.me/mk_movies_linkz)
+Jᴏɪɴ:- [Movie Group 1](https://t.me/movies_kottaaram)
+╚═  ᴊᴏɪɴ ᴡɪᴛʜ ᴜs    ═╝ </blockquote>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
