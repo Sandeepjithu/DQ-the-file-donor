@@ -206,9 +206,9 @@ Cʀᴇᴀᴛᴇᴅ ʙʏ 𝗠𝗮𝗱𝗼𝘅 💗 </b>"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<pre>Hi Gentleman 😍 You're File Is Ready,(^_^)</pre>
-<pre>📂 File Name: {file_name}</pre>
-<pre>💾 Size: {file_size}</pre>"""
+    CAPTION = """<b><code>📂 File Name: {file_name}</code>
+
+<code>💾 Size: {file_size}</code></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
