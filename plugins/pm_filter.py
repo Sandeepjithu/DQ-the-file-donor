@@ -1665,6 +1665,8 @@ async def auto_filter(client, msg, spoll=False):
                 await asyncio.sleep(600)
                 await fuk.delete()
                 await message.delete()
+            else:
+                return
         except KeyError:
             await save_group_settings(message.chat.id, 'auto_delete', True)
             await asyncio.sleep(600)
