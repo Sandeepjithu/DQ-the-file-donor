@@ -1660,19 +1660,13 @@ async def auto_filter(client, msg, spoll=False):
         )
     cap = f"<b>Hᴇʏ {message.from_user.mention}, Hᴇʀᴇ ɪs Wʜᴀᴛ I Fᴏᴜɴᴅ Iɴ Mʏ Dᴀᴛᴀʙᴀsᴇ Fᴏʀ Yᴏᴜʀ Qᴜᴇʀʏ {search}.</b>"
     fuk = await message.reply_photo(caption=cap, reply_markup=InlineKeyboardMarkup(btn))
-        try:
-            if settings['auto_delete']:
-                await asyncio.sleep(600)
-                await fuk.delete()
-                await message.delete()
-            else:
-                return
-        except KeyError:
-            await save_group_settings(message.chat.id, 'auto_delete', True)
-            await asyncio.sleep(600)
-            await fuk.delete()
-            await message.delete()
-    
+    if settings['auto_delete']:
+        await asyncio.sleep(600)
+        await fuk.delete()
+        await message.delete()
+    else:
+        return
+        
 async def advantage_spell_chok(client, msg):
     mv_id = msg.id
     mv_rqst = msg.text
