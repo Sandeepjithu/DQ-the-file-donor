@@ -2,7 +2,7 @@ import logging, re, asyncio
 from pyrogram import Client, filters, enums
 from pyrogram.errors import FloodWait
 from pyrogram.errors.exceptions.bad_request_400 import ChannelInvalid, ChatAdminRequired, UsernameInvalid, UsernameNotModified
-from info import CHANNELS, LOG_CHANNEL, ADMINS
+from info import LOG_CHANNEL, ADMINS
 from database.ia_filterdb import save_file
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from utils import temp
@@ -10,18 +10,6 @@ from utils import temp
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 lock = asyncio.Lock()
-
-
-@Client.on_message(filters.chat(CHANNELS) & (filters.document | filters.video | filters.audio))         
-async def media(bot, message):
-    for file_type in ("document", "video", "audio"):
-        media = getattr(message, file_type, None)
-        if media is not None: break
-    else: return
-    media.file_type = file_type
-    media.caption = message.caption
-    await save_file(media)
-
 
 
 @Client.on_callback_query(filters.regex(r'^index'))
