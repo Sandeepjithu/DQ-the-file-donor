@@ -22,7 +22,7 @@ youtube_search
 youtube_search_python
 yt-dlp
 youtube-dl
-git+https://github.com/Joelkb/cinemagoer
+git+https://github.com/GouthamSER/cinemagoer
 python-dotenv
 Heroku3
 search_engine_parser
